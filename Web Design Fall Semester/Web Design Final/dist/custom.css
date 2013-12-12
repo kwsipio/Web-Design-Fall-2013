@@ -1,0 +1,322 @@
+
+
+body{
+	background-color:#AAC2FF;
+	}
+
+
+#bar{
+
+
+border-bottom: 1px solid #DEDEDE;
+width: 952px;
+height: 7.5em;
+width: 100%;
+text-align:center;
+background-color:rgba(0,0,0,0.9);
+position:fixed; 
+z-index: 99;
+
+}
+
+
+
+h1{
+ font-family: 'Megrim', cursive;
+ font-size:500%; 
+ font-size:500%; 
+ color:#FFF;
+  text-decoration: none;
+ }
+
+a:hover   {color:white;}
+a:hover {text-decoration:none;}
+ 
+ 
+#first-row, .music-content {
+    padding: 125px 25px 25px 25px;
+    position: relative;
+    z-index: 10;
+    position: relative; 
+    width: 100%; 
+}
+
+
+h3{
+	padding:  25px 25px 25px 25px;
+}
+
+
+	
+#second-row, .music-content{
+	margin-bottom: 15px;
+	margin-left: 25px;
+	margin-right:10px;
+    position: relative;
+    z-index: 10;
+    position: relative; 
+    width: 100%; 
+
+	}
+	
+.philly{
+margin-left: -35px;
+}
+
+.records{
+margin-left:-18px;
+}
+	
+	
+#music-row-1{
+padding: 25px 25px 25px 25px;
+    position: relative;
+    z-index: 10;
+    position: relative; 
+    width: 100%; 
+	
+}
+
+#music-row-2{
+	padding:25px 25px 25px 25px;
+	position: relative;
+    z-index: 10;
+    position: relative; 
+    width: 100%; 
+	margin-left:-25px;
+	
+	
+}
+
+.music-description{
+	margin-top:-45px;
+	}
+.music-blurb{
+	color: #fff;
+    font-weight: lighter;
+	background-color: black;
+	opacity: .90;
+	position:relative;
+	height:auto;
+	width:auto;
+	margin-top:45px;
+	margin-left: 25px;
+	margin-right: 25px;
+	}
+
+.peoplesay{
+margin-left:15px;
+}
+
+.coneyisland{
+margin-left:35px;
+}
+
+	
+.about-info, .about-heading{
+	padding-top:125px;
+	
+
+	}
+	
+.about-info, .contact-pic{
+float:left;
+}
+
+.about-bio{
+	color: #fff;
+    font-weight: lighter;
+	background-color: black;
+	opacity: .90;
+	position:relative;
+	height:800;
+	width: 200;
+	margin-top:145px;
+	margin-left:300px;
+
+
+}
+
+.contact-blurb{
+margin-top: 125px;
+}
+
+
+.profile-picture{
+	margin-left: 15px;
+	padding-top:145px;
+	}
+
+.contact-info{
+	margin-left: 15px;
+	}
+	
+
+
+
+
+	
+.projects-content{
+	margin-left: 45px;
+	margin-right: 45px;
+	padding: 125px 75px 50px 75px;
+	}
+.thumbnail{
+	height: 775px;
+	
+	}
+
+
+	
+.blogs-content{
+	padding: 125px 75px 50px 75px;
+	
+	}
+.blogs-content {
+	margin-left: 45px;
+	margin-right: 45px;
+	}
+
+.blog-description{
+margin-top: -45px;
+}
+
+.writing{
+	color: #fff;
+    font-weight: lighter;
+	background-color: black;
+	opacity: .90;
+	position:relative;
+	height:auto;
+	width:auto;
+	margin-top:45px;
+}
+
+.writing-row-1{
+padding: 25px 25px 25px 25px;
+    position: relative;
+    z-index: 10;
+    position: relative; 
+    width: 100%; 
+	}
+
+.nature-blog{
+	margin-left:27px;
+	}
+.writing-blog{
+	margin-left:-35px;
+	}
+.digital-blog{
+	margin-left:-95px;
+	}
+	
+
+	
+
+	
+.photo-blurb{
+	color: #fff;
+    font-weight: lighter;
+	background-color: black;
+	opacity: .90;
+	position:relative;
+	height:auto;
+	width:auto;
+	margin-top:45px;
+	}
+
+.photography-content{
+	padding: 125px 75px 50px 75px;
+	margin-left: 45px;
+	margin-right: 45px;
+	}
+
+	
+	
+	
+	
+	
+	
+.contact-content{
+	font-family:;
+    font-size: 2em;
+	color: #FFF;
+	margin-bottom: .1em;
+	margin-top: ;
+	padding-top:95px;
+	margin-left: 45px;
+	margin-right: 45px;
+	}
+
+
+	
+.contact-picture{
+	margin-top:115px;
+	margin-right:auto;
+	
+}
+
+
+
+	
+#contact-me{
+	color: #fff;
+    font-weight: lighter;
+	background-color: black;
+	opacity: .90;
+	position:relative;
+	height:auto;
+	width: 775px;
+	margin-left: 470px;
+	margin-right: 45px;
+	margin-top:-520px;
+	
+	}
+.contact-info-2{
+	margin-top: 5px;
+	margin-left: 225px;
+	}
+	
+
+
+.job {
+color:#AAC2FF;
+}
+	
+ul
+{
+list-style-type: none;
+}
+
+	
+	
+	
+	
+	
+	
+
+	
+
+
+
+/*HOMEPAGE*/
+/*B&W*/
+.bw {
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+ padding-right: 25px;
+}
+ 
+.bw:hover {
+  -webkit-filter: grayscale(100%);
+}
+
+.footer {
+  opacity: 1; 
+  background-color: rgba(0,0,0,0.9);
+}
+
+

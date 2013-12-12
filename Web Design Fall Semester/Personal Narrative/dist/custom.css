@@ -1,0 +1,92 @@
+body{
+	background-color:#AAC2FF;
+	}
+
+
+
+h1{
+ font-family: 'Megrim', cursive;
+ font-size:500%; 
+ font-size:500%; 
+ color:#FFF;
+  text-decoration: none;
+ }
+
+a:hover   {color:white;}
+a:hover {text-decoration:none;}
+
+.jumbotron {
+   background-image: url('leaves.jpg');
+   position: relative;
+}
+
+.thumbnail{
+	height: 175px;
+	width:275px;
+	
+	}
+
+.contact-info{
+	 color: #fff;
+    font-weight: lighter;
+	background-color: black;
+	opacity: .90;
+	position:relative;
+	height:175px;
+	width: 220px;
+	}
+	
+.narrative-info{
+		 color: #fff;
+    font-weight: lighter;
+	background-color: black;
+	opacity: .90;
+	position:relative;
+	height:auto;
+	width: 820px;
+	}
+	
+
+.Recipe-Page{
+background-color: lemonchiffon;
+color: black;
+font-weight: bold;
+
+}
+
+.recipe-title ,h1{
+color:black;
+}
+
+a:hover   {color:white;}
+a:link {color:black;}
+a:hover {text-decoration:none;}
+ 
+
+.pizza{
+color:red;
+}
+	
+.toppings{
+ float: right;
+ margin-top: px;
+ }
+	
+	
+
+
+
+td, th {
+  width: 8rem;
+  height: 6rem;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+th {
+  background: lightblue;
+  border-color: white;
+}
+
+
+
